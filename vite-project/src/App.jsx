@@ -1,6 +1,8 @@
 // import {Fragment} from "react";
 import NetflixSeries from "./components/NetflixSeries";
 import './index.css'
+import "./Netflix.css"
+
 export const App = ()=>{
   return (
     <section className="container">

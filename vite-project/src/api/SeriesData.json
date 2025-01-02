@@ -17,42 +17,42 @@
         "description":"Im sol travels back in time to prevent the tragic fate of her favourite star,Ryu sun Jae",
         "cast":["Kim Hye Yoon","Byeon Woo Seak"],
         "genre":["Romantic Comedy","Fantasy"],
-        "Watch_url":"https://youtu.be/5kk0dYa8Ccc?si=7v0kN9IwSGAXDNIU"
+        "Watch_url":"https://youtu.be/pMRePAxn1-I?si=ETOgXbN6AU0Bogov"
     },
     {
         "name":"The Witcher",
         "id":"The Witcher",
-        "img_url":"https://m.media-amazon.com/images/M/MV5BMTQ5MDU5MTktMDZkMy00NDU1LWIxM2UtODg5OGFiNmRhNDBjXkEyXkFqcGc@._V1_.jpg",
-        "rating":"9.4",
+        "img_url":"https://m.media-amazon.com/images/M/MV5BN2U3NzNmNjYtZTM0MC00MjAyLWEyODYtMGY4ZjdhNjliNTQ5XkEyXkFqcGc@._V1_.jpg",
+        "rating":"8.4",
         "description":"Im sol travels back in time to prevent the tragic fate of her favourite star,Ryu sun Jae",
         "cast":["Kim Hye Yoon","Byeon Woo Seak"],
         "genre":["Romantic Comedy","Fantasy"],
-        "Watch_url":"https://youtu.be/5kk0dYa8Ccc?si=7v0kN9IwSGAXDNIU"
+        "Watch_url":"https://youtu.be/ndl1W4ltcmg?si=lttf2PLqjJVBuB2H"
     },
     {
         "name":"Money Heist",
         "id":"Money Heist",
-        "img_url":"https://m.media-amazon.com/images/I/71QKqGokUrL._AC_UF1000,1000_QL80_.jpg",
+        "img_url":"https://thewarrioronline.com/wp-content/uploads/2021/12/money-heist-2-1200.jpg",
         "rating":"9.2",
         "description":"Im sol travels back in time to prevent the tragic fate of her favourite star,Ryu sun Jae",
         "cast":["Kim Hye Yoon","Byeon Woo Seak"],
         "genre":["Romantic Comedy","Fantasy"],
-        "Watch_url":"https://youtu.be/5kk0dYa8Ccc?si=7v0kN9IwSGAXDNIU"
+        "Watch_url":"https://youtu.be/_InqQJRqGW4?si=Z6FDHkYtGRpmhJKb"
     },
     {
         "name":"The Crown",
         "id":"The Crown",
-        "img_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZEy88IRWaWMGdQ1qhMt4nEtVP-jjpsLbbA&s",
-        "rating":"9.0",
+        "img_url":"https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/e/53/e5374836-654c-11ed-90df-b7206780d16d/63743b1135ceb.image.jpg?resize=1200%2C800",
+        "rating":"8.3",
         "description":"Im sol travels back in time to prevent the tragic fate of her favourite star,Ryu sun Jae",
         "cast":["Kim Hye Yoon","Byeon Woo Seak"],
         "genre":["Romantic Comedy","Fantasy"],
-        "Watch_url":"https://youtu.be/5kk0dYa8Ccc?si=7v0kN9IwSGAXDNIU"
+        "Watch_url":"https://youtu.be/JWtnJjn6ng0?si=sQihUANn_Zpcyi9W"
     },
     {
         "name":"Queen Of Tears",
         "id":"Queen Of Tears",
-        "img_url":"https://lh3.googleusercontent.com/r9o5gyrnuKtEYN19iaff-iKOCUJYByyo8y9nyon4EvqkIgj-_Sd0MedAvoER9FaV5Pvu3a4lnMGJg6tu=w544-h544-l90-rj",
+        "img_url":"https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQQbzps8XSosQZykNWTQrKkxxz6A6SIVQ0r8gE_zvzbRQ5yHzdHkqvKHeUxmcDipAcp3RIdYzsPHPhamQnAVTxgpkl-Cht8p0pfYWarYZ6ITjj6ws1cu15QVTs6a7D8_xCyntYHmwvW1M3EXytrWMFlPhzO8.jpg?r=860",
         "rating":"8.8",
         "description":"Im sol travels back in time to prevent the tragic fate of her favourite star,Ryu sun Jae",
         "cast":["Kim Hye Yoon","Byeon Woo Seak"],
@@ -63,11 +63,10 @@
         "name":"Squid Game",
         "id":"Squid Game",
         "img_url":"https://eagleeye.news/wp-content/uploads/2021/10/fWbztcoPWO4bgp9VXIVwaj8NnynGt2oR9bvcLvAd-900x900.jpeg",
-        "rating":"8.8",
+        "rating":"8.2",
         "description":"Im sol travels back in time to prevent the tragic fate of her favourite star,Ryu sun Jae",
         "cast":["Kim Hye Yoon","Byeon Woo Seak"],
         "genre":["Romantic Comedy","Fantasy"],
         "Watch_url":"https://youtu.be/5kk0dYa8Ccc?si=7v0kN9IwSGAXDNIU"
     }
-
 ]
